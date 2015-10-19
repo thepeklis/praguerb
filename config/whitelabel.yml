@@ -430,6 +430,7 @@
   - madridrb.com
   google_group: madrid-rb
 - !ruby/object:Usergroup
+# Czech Ruby Group
   label_id: prague
   default_locale: en
   recurring: second wednesday
@@ -438,7 +439,7 @@
   organizers:
   - rascasone
   location:
-    :zoom: 8
+    :zoom: 0.5
     :lat: 49.86
     :long: 15.43
   imprint:
